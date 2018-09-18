@@ -1,0 +1,48 @@
+# FIB-PI
+
+## 1. Internet Architecture & Addressing
+
+#### Network Operator Content Network
+Caché Local Usant etags
+
+#### Content Providers Content Networks
+
+``` Farm Servers: ``` Clonar un servidor (balancejar) Un dispacher tira de quin servidor agafar la info.
+
+``` Mirror: ``` Distrubuïr els servidors geogràficament (manual).
+
+``` CDNs: ``` Content Distributor Networks. Clonem la web a diferents ISP.
+
+#### User Content Network
+
+``` P2P ```
+
+### Autonomous Systems (AS) or Routing Domain
+
+#### Interdomain Routing
+- BGPv4
+
+> 3.4.5.7 pertany a l'ASN 3725 i per anar-hi has de passar per l'AS 2714
+
+#### Intradomain Routing
+- OSPF
+- IS-IS
+- RIP
+
+> ```ASN (Autonomous System Number)``` 16 b, ara 32b
+>
+> ```AS (Autonomous System)```
+>
+> IANA -> RIR -> LIR -> ASN
+
+### Regional Internet Registries (RIRs)
+
+> Governar internet en una àrea geogràfica.
+
+```IANA``` reparteix els blocs de direccions en 5 regions.
+
+- AfriNIC
+- APNIC
+- ARIN
+- LACNIC
+- ```RIPE NCC``` (Europa)
